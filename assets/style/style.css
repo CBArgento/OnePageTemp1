@@ -1,8 +1,15 @@
-.#logoimg {
-    width: 1px;
-    height: 18px;
+
+.partners {
+    text-align: center;
 }
 
+.card {
+    border: none;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
 
 
