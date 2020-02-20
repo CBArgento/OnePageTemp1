@@ -45,6 +45,18 @@ html, body {
     display: table-cell;
     text-align: center;
     vertical-align: middle;
+    
+}
+
+.pgtitle {
+    font-family: 'Akronim', cursive;
+    color: yellow;
+    font-size: 120px;
+}
+
+.subtext {
+    font-size: 80px;
+    word-wrap: break-word;
 }
 
 
