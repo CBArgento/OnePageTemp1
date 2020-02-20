@@ -52,6 +52,7 @@ html, body {
     font-family: 'Akronim', cursive;
     color: yellow;
     font-size: 120px;
+    font-weight: 580;
 }
 
 .subtext {
@@ -59,6 +60,9 @@ html, body {
     word-wrap: break-word;
 }
 
+.padding {
+    padding: 80px 0;
+}
 
 
 
