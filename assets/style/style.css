@@ -32,6 +32,10 @@ html, body {
     height: 25px;
 }
 
+#home {
+    background: url(assets/imgs/OffSpace.jpg);
+}
+
 
 
 
