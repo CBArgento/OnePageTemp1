@@ -11,6 +11,16 @@
   width: 50%;
 }
 
+#footer {
+    background-color: lightcyan;
+    width: 100%;
+}
+
+#footerimg {
+    width: 25px;
+    height: 25px;
+}
+
 
 
 
